@@ -1,4 +1,4 @@
-# duo
+# view-binder-widget
 
 > alpha component library with [view-binder](//gitlab.alibaba-inc.com/alpha/view-binder/)
 
