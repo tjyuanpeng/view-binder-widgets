@@ -12,10 +12,9 @@
   "main": "index.js",
   "scripts": {
     "lint": "eslint --ext .js .",
-    "fix": "eslint --fix --ext .js .",
+    "fix": "eslint --fix --ext .js ."
   },
-  "dependencies": {
-  },
+  "dependencies": {},
   "devDependencies": {
     "@alife/alpha-balloon": "^2.2.0",
     "@alife/alpha-jquery": "1.x",
