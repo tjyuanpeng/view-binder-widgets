@@ -1,13 +1,9 @@
 {
-  "name": "@ali/view-binder-widget",
-  "version": "1.0.1",
-  "description": "alpha component library with view-binder",
+  "name": "view-binder-widgets",
+  "version": "1.0.0",
+  "description": "alpha component library with view-binder (deprecated) ",
   "repository": {
-    "type": "git",
-    "url": "git@gitlab.alibaba-inc.com:mark.yp/view-binder-widget.git"
-  },
-  "publishConfig": {
-    "registry": "http://registry.npm.alibaba-inc.com"
+    "type": "git"
   },
   "main": "index.js",
   "scripts": {
@@ -16,24 +12,24 @@
   },
   "dependencies": {},
   "devDependencies": {
-    "@alife/alpha-balloon": "^2.2.0",
-    "@alife/alpha-jquery": "1.x",
-    "@alife/alpha-select": "~2.1.13",
-    "@alife/alpha-step": "~2.0.9",
-    "@alife/alpha-svn": "~1.1.54",
-    "@alife/alpha-uploader": "~3.5.1",
-    "@alife/alpha-validator": "~2.3.1",
-    "@alife/alpha-view-binder": "~2.6.0",
+    "alpha-balloon": "^2.2.0",
+    "alpha-jquery": "1.x",
+    "alpha-select": "~2.1.13",
+    "alpha-step": "~2.0.9",
+    "alpha-svn": "~1.1.54",
+    "alpha-uploader": "~3.5.1",
+    "alpha-validator": "~2.3.1",
+    "alpha-view-binder": "~2.6.0",
     "eslint": "^2.2.0"
   },
   "peerDependencies": {
-    "@alife/alpha-balloon": "^2.2.0",
-    "@alife/alpha-jquery": "1.x",
-    "@alife/alpha-select": "~2.1.13",
-    "@alife/alpha-step": "~2.0.9",
-    "@alife/alpha-svn": "~1.1.54",
-    "@alife/alpha-uploader": "~3.5.1",
-    "@alife/alpha-validator": "~2.3.1",
-    "@alife/alpha-view-binder": "~2.6.0"
+    "alpha-balloon": "^2.2.0",
+    "alpha-jquery": "1.x",
+    "alpha-select": "~2.1.13",
+    "alpha-step": "~2.0.9",
+    "alpha-svn": "~1.1.54",
+    "alpha-uploader": "~3.5.1",
+    "alpha-validator": "~2.3.1",
+    "alpha-view-binder": "~2.6.0"
   }
 }

@@ -1,6 +1,6 @@
-# view-binder-widget
+# view-binder-widgets
 
-> alpha component library with [view-binder](//gitlab.alibaba-inc.com/alpha/view-binder/)
+> alpha component library with view-binder (deprecated)
 
 ## Install
 
